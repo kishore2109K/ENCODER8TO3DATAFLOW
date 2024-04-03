@@ -53,6 +53,7 @@ assign c=din[2] | din[4] | din[6] | din[7];
 endmodule
 ```
 **Developed by: KISHORE K**
+
 **RegisterNumber: 212223040101**
 
 
